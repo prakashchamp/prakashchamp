@@ -56,8 +56,6 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="[https://cdn.simpleicons.org/react/61DAFB](https://www.bing.com/ck/a?!&&p=f9d912421bbec254JmltdHM9MTY5MDc2MTYwMCZpZ3VpZD0wYWVjNDdiYy1jOTdmLTZmMTQtMzFjZS01NDg1Yzg0ZDZlYjUmaW5zaWQ9NTYxNg&ptn=3&hsh=3&fclid=0aec47bc-c97f-6f14-31ce-5485c84d6eb5&u=a1L2ltYWdlcy9zZWFyY2g_cT1yZWFjdCBuYXRpdmUgbG9nbyBwbmcmRk9STT1JUUZSQkEmaWQ9MDFDNDhBOEVCMDE5MzJCQjU3Nzg4MEY4OERCMjg3MDlBNDlGOUNBMA&ntb=1)" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
