@@ -6,6 +6,10 @@
 
 <br clear="both">
 
+<div align="left">
+  <h2>About Me</h2>
+</div>
+
 <h3 align="left">🚀Hi, I am Prakash 😎.<br>🚀I am a passionate Full-stack Developer.<br>🚀Specialized in Backend with strong proficiency in Frontend technologies.<br>🚀Love to explore and play around with different technologies.</h3>
 
 ###
@@ -13,24 +17,12 @@
 <div align="left">
 </div>
 
-###
 
+
+###
 <div align="left">
-  <a href="mailto:prakashchamp461@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/prakash-d-111391187/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <h2>Programming Languages, Tools and Technologies</h2>
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -114,3 +106,20 @@
 </div>
 
 ###
+<div align="left">
+</div>
+###
+<div align="left">
+  <h2>Let's connect</h2>
+</div>
+<div align="left">
+  <a href="mailto:prakashchamp461@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/prakash-d-111391187/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
