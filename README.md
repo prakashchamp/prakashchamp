@@ -2,7 +2,7 @@
   <img height="200" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"  />
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -12,14 +12,14 @@
 
 <h4 align="left" line-height="2">✨ Hi, I am Prakash 😎.<br>🔰 I am a passionate Full-stack Developer.<br>✅ Specialized in Backend with strong proficiency in Frontend technologies.<br>❤️ Love to explore and play around with different technologies.</h4>
 
-###
+
 
 <div align="left">
 </div>
 
 
 
-###
+
 <div align="left">
   <h2>Programming Languages, Tools and Technologies</h2>
 </div>
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
@@ -59,7 +59,7 @@
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
@@ -73,7 +73,7 @@
   <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="40" alt="amazondynamodb logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -85,7 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -97,7 +96,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -105,10 +104,10 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 
-###
+
 <div align="left">
 </div>
-###
+
 <div align="left">
   <h2>Let's connect</h2>
 </div>
@@ -121,5 +120,5 @@
   </a>
 </div>
 
-###
+
 
