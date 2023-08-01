@@ -10,7 +10,7 @@
   <h2>About Me</h2>
 </div>
 
-<h4 align="left">✨Hi, I am Prakash 😎.<br>🔰I am a passionate Full-stack Developer.<br>✅Specialized in Backend with strong proficiency in Frontend technologies.<br>❤️Love to explore and play around with different technologies.</h4>
+<h4 align="left" line-height="1.5">✨ Hi, I am Prakash 😎.<br>🔰 I am a passionate Full-stack Developer.<br>✅ Specialized in Backend with strong proficiency in Frontend technologies.<br>❤️ Love to explore and play around with different technologies.</h4>
 
 ###
 
